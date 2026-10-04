@@ -1,5 +1,3 @@
-﻿This folder is used to house an unedited copy of the localization file the mod's localization files are based on.
-
-When the game updates, I (Spicy) run these through a comparison against the vanilla localization files to look for changes, and copy them over to the mod's files if any exist.
-
+﻿This folder is used to house an unedited copy of the localization version the mod's localization files are based on
+When the game updates, I (Spicy) run these through a comparison against the vanilla localization files to look for changes, and copy them over to the mod's files if any exist
 Please don't edit the files in this folder!
