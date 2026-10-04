@@ -56494,7 +56494,7 @@
 		"tengu_unselect_04_hero_3d"		"Wonder what the Arroyos are up to…"
 		"tengu_unselect_05_hero_3d"		"I should go check in on Sophie and see how she's doing…"
 		"tengu_unselect_06_hero_3d"		"Go have fun without me, it's ok…"
-		"tengu_unselect_07_hero_3d"		"You sure? I make any team better…"
+		"tengu_unselect_07_hero_3d"		"You sure? I can make any team better…"
 		"tengu_unselect_08_hero_3d"		"Can I at least have a hug?"
 		"tengu_unselect_09_hero_3d"		"(Sigh) I guess I'll wait here…"
 		"tengu_unselect_10_hero_3d"		"I really need a job…"
