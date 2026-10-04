@@ -4357,7 +4357,7 @@
 		"bookworm_match_start_bookworm_viper_convo03_04_hero_zipline_3d"		"I'm not lying to a police officer."
 		"bookworm_match_start_bookworm_viper_convo03_06_hero_zipline_3d"		"I'm not lying period."
 		"bookworm_match_start_punkgoat_bookworm_convo01_02_hero_zipline_3d"		"No one, I like to read."
-		"bookworm_match_start_punkgoat_bookworm_convo01_04_hero_zipline_3d"		"Sure but you need your breakfast book that gets you going, your coffee book for when you need a little break that you secretly want to be a long break. You got your main book that you're working on which I'm assuming that’s what you meant when you said one book at a time, and then you have your comfort book for when you had a bad day and just want to dissapear on the purple line."
+		"bookworm_match_start_punkgoat_bookworm_convo01_04_hero_zipline_3d"		"Sure but you need your breakfast book that gets you going, your coffee book for when you need a little break that you secretly want to be a long break. You got your main book that you're working on which I'm assuming that’s what you meant when you said one book at a time, and then you have your comfort book for when you had a bad day and you just want to dissapear on the purple line."
 		"bookworm_match_start_punkgoat_bookworm_convo02_01_hero_zipline_3d"		"I get what you're doing."
 		"bookworm_match_start_punkgoat_bookworm_convo02_03_hero_zipline_3d"		"This whole mad at the world schtick. I bet secretly you have the heart of a poet and just are waiting for the world to be a little kinder."
 		"bookworm_match_start_punkgoat_bookworm_convo02_05_hero_zipline_3d"		"See you think you do, but that's just masking some void in your life."
