@@ -66727,6 +66727,23 @@ you to know she doesn't care."
 		"dynamo_match_start_atlas_dynamo_oathkeeper_convo02_04_hero_zipline_3d"		"Sorry to hear that."
 		"atlas_match_start_atlas_dynamo_oathkeeper_convo02_05_hero_zipline_3d"		"It's probably for the best. I heard that woman's bad news."
 
+		"ghost_match_start_atlas_ghost_oathkeeper_convo01_01_hero_zipline_3d"		"Thank you for your help, Detective."
+		"atlas_match_start_atlas_ghost_oathkeeper_convo01_02_hero_zipline_3d"		"We still got a long way to go before we summon the Patron."
+		"ghost_match_start_atlas_ghost_oathkeeper_convo01_03_hero_zipline_3d"		"Abrams, if there's one thing I'm confident in, it's getting what I want."
+
+		"atlas_match_start_atlas_ghost_oathkeeper_convo02_01_hero_zipline_3d"		"Remember, when we summon the Patron, we need to be very specific about what we ask for."
+		"ghost_match_start_atlas_ghost_oathkeeper_convo02_02_hero_zipline_3d"		"Yes, yes. I know."
+		"atlas_match_start_atlas_ghost_oathkeeper_convo02_03_hero_zipline_3d"		"No going into business for yourself."
+		"ghost_match_start_atlas_ghost_oathkeeper_convo02_04_hero_zipline_3d"		"You worry too much Detective."
+
+		"ghost_match_start_dynamo_ghost_oathkeeper_convo02_01_hero_zipline_3d"		"You are a man of science Professor. Do you think what they say about the Patrons is true?"
+		"dynamo_match_start_dynamo_ghost_oathkeeper_convo02_02_hero_zipline_3d"		"Well, it's clear that the Patrons are beings of immense power. Whether or not they actually intend to fulfill their end of the bargain is less about science and more about their nature. On the plus side, we're about to find out."
+
+		"dynamo_match_start_dynamo_ghost_oathkeeper_convo01_01_hero_zipline_3d"		"Pleasure to see you again, Lady Geist."
+		"ghost_match_start_dynamo_ghost_oathkeeper_convo01_02_hero_zipline_3d"		"Thank you for your help, Professor."
+		"dynamo_match_start_dynamo_ghost_oathkeeper_convo01_03_hero_zipline_3d"		"Thank you for the funding. I trust that your Oathkeeper situation has been resolved?"
+		"ghost_match_start_dynamo_ghost_oathkeeper_convo01_04_hero_zipline_3d"		"I would say mitigated to my satisfaction."
+
 		// Missing Sinclair lines
 		"magician_henry_select_02_a_3d"		"Something funny?"
 		"magician_savannah_select_02_a_3d"		"Yeah, you calling yourself \"magnificent\" is hilarious."
