@@ -66711,5 +66711,19 @@ you to know she doesn't care."
 		"yamato_ping_see_ratking_ping_2d"		"I see the Rat King."
 		"yamato_ping_ult_ready_ratking_ping_2d"		"Rat King's ult is ready!"
 		"yamato_ping_with_ratking_ping_2d"		"I'm with you, Rat King!"
+
+		// Oathkeeper VN lines
+		"dynamo_match_start_atlas_dynamo_oathkeeper_convo01_01_hero_zipline_3d"		"I heard a rumor that you moved in with Lady Geist."
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo01_02_hero_zipline_3d"		"Don't wanna talk about it."
+		"dynamo_match_start_atlas_dynamo_oathkeeper_convo01_03_hero_zipline_3d"		"Who would have thought that a simple business card could start a star-crossed romance!"
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo01_04_hero_zipline_3d"		"Nothing romantic about it, pal!"
+		"dynamo_match_start_atlas_dynamo_oathkeeper_convo01_05_hero_zipline_3d"		"Not yet."
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo01_06_hero_zipline_3d"		"Not ever!"
+
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo02_01_hero_zipline_3d"		"Sorry about crashing your party."
+		"dynamo_match_start_atlas_dynamo_oathkeeper_convo02_02_hero_zipline_3d"		"No apologies needed, it wasn't my party. Did you ever meet up with Lady Geist?"
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo02_03_hero_zipline_3d"		"No. Never called back."
+		"dynamo_match_start_atlas_dynamo_oathkeeper_convo02_04_hero_zipline_3d"		"Sorry to hear that."
+		"atlas_match_start_atlas_dynamo_oathkeeper_convo02_05_hero_zipline_3d"		"It's probably for the best. I heard that woman's bad news."
 	}
 }
