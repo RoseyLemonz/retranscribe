@@ -11850,7 +11850,7 @@
 		"ghost_kill_drifter_03_hero_3d"		"You're not freeing Oathkeeper, Drifter."
 		"ghost_kill_drifter_04_hero_3d"		"And he thought I'd be easy prey…"
 		"ghost_kill_drifter_05_hero_3d"		"I'm not afraid of you, Drifter…"
-		"ghost_kill_dynamo_01_hero_3d"		"I stopped The Professor!"
+		"ghost_kill_dynamo_01_hero_3d"		"I stopped the Professor!"
 		"ghost_kill_dynamo_02_hero_3d"		"Dynamo is down!"
 		"ghost_kill_dynamo_03_hero_3d"		"Stick to the classroom, Professor…"
 		"ghost_kill_dynamo_04_hero_3d"		"You'll never get your body back…"
