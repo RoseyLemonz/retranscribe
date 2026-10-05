@@ -5,7 +5,10 @@ EXAMPLE : [Japanese] 立ち塞がる者は誰であれ斬り捨てる。 [I'll c
 
 Slang, improper spelling, and stutters or interruptions should be used where necessary to reflect (notable) spoken inflection or other vocal quirks
 
-Ellipses should be written with the ellipses character (…), not three periods (...)
+Some specifics:
+- Ellipses should be written with the ellipses character (…), not three periods (...)
+- Use "yeah", not "yea"
+- Use "ok", not "okay"
 
 Errors in speech should also be faithfully transcribed. In these cases, a comment (started with two forward slashes) should be added above the incorrect line with "[sic];" and an explanation of what's incorrect
 EXAMPLE : // [sic]; "detuvo" should be "detuve"
